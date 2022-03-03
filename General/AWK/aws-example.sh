@@ -1,2 +1,3 @@
-# retorna a ocorrencia 5 usando o separador | no arquivo bkp-pol
+# returns occurrence 5 using separator | no bkp-pol file
+
 awk -F\| '{print$1 $5}' bkp-pol
