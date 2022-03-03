@@ -1,0 +1,43 @@
+| Datacenter | Cluster       | Datastore | Virtual Machine                            | Policy                      | Storage HA | Created At        |
+|            |               |           | TEST-SAOSRV7NES01 - Nessus Vulnerability Scan | Policy_startup              | Yes        | 2020-Feb-26 15:03 |
+|            |               |           | TEST-SPDNAS004MON                             | Policy_1_Week               | Yes        | 2019-Nov-14 15:06 |
+|            |               |           | TEST-SPDNAS004SSMC                            | Policy_1_Week               | Yes        | 2019-Nov-14 12:51 |
+|            |               |           | TEST-SPDSRV0DC03                              | Policy_startup              | Yes        | 2020-Jul-17 13:27 |
+|            |               |           | TEST-SPDSRV200FS02 - A ser removida           | Policy_startup              | Yes        | 2020-Mar-19 13:55 |
+|            |               |           | TEST-SPDSRV5CX01P1                            | Policy_startup              | Yes        | 2020-Sep-30 20:21 |
+|            |               |           | TEST-SPDSRV5CX02P1                            | Policy_startup              | Yes        | 2020-Oct-29 19:48 |
+|            |               |           | TEST-SPDSRV5CX03P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:41 |
+|            |               |           | TEST-SPDSRV5CX04P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:47 |
+|            |               |           | TEST-SPDSRV5CX05P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:49 |
+|            |               |           | TEST-SPDSRV5CX06P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:52 |
+|            |               |           | TEST-SPDSRV5CX07P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:53 |
+|            |               |           | TEST-SPDSRV5CX08P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:55 |
+|            |               |           | TEST-SPDSRV5CX09P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:56 |
+|            |               |           | TEST-SPDSRV5CX10P1                            | Policy_startup              | Yes        | 2020-Oct-31 16:57 |
+|            |               |           | TEST-SPDSRV5CX11P1                            | Policy_startup              | Yes        | 2020-Oct-22 22:44 |
+|            |               |           | TEST-SPDSRV5CX12P1                            | Policy_startup              | Yes        | 2020-Oct-26 19:11 |
+|            |               |           | TEST-SPDSRV5CX13P1                            | Policy_startup              | Yes        | 2020-Nov-19 13:21 |
+|            |               |           | TEST-SPDSRV5CX14P1                            | Policy_startup              | Yes        | 2020-Nov-19 14:37 |
+|            |               |           | TEST-SPDSRV5CX15P1                            | Policy_startup              | Yes        | 2020-Nov-19 14:40 |
+|            |               |           | TEST-SPDSRV5CX16P1                            | Policy_startup              | Yes        | 2020-Nov-19 14:41 |
+|            |               |           | TEST-SPDSRV7CMSSP1                            | Policy_startup              | Yes        | 2020-Jul-21 13:55 |
+|            |               |           | TEST-SPDSRV7DP2                               | Policy_APPs_General         | Yes        | 2020-Oct-26 13:03 |
+|            |               |           | TEST-SPDSRV7NES02                             | Policy_startup              | Yes        | 2019-Nov-11 15:42 |
+|            |               |           | TEST-SPDSRV7PROBE1                            | Policy_APPs_General         | Yes        | 2019-Nov-11 19:33 |
+|            |               |           | TEST-SPDSRV7QUO1-Server_Quorum_for_Simplivity | Policy_APPs_General         | Yes        | 2020-May-28 14:54 |
+|            |               |           | TEST-SPDSRV7VCP2.anyaccess.net                | Policy_1_Week               | Yes        | 2019-Nov-11 21:11 |
+|            |               |           | TEST-SPDVDICX005-Win10                        | Policy_1_month              | Yes        | 2019-Nov-11 17:23 |
+|            |               |           | TEST-SPDVDICX006-Win10                        | Policy_startup              | Yes        | 2020-Sep-15 12:40 |
+|            |               |           | TEST-SPDVDICX007-Win10                        | Policy_1_month              | Yes        | 2019-Nov-11 17:23 |
+|            |               |           | TEST-SPDVDICX008-Win10                        | Policy_1_month              | Yes        | 2019-Nov-11 17:23 |
+|            |               |           | TEST-SPDVDICX009-Win10                        | Policy_1_month              | Yes        | 2019-Dec-09 18:50 |
+|            |               |           | TEST-SPDVDICX010-Win10                        | Policy_1_month              | Yes        | 2019-Dec-09 18:53 |
+|            |               |           | TEST-SPDVDICX011-Win10                        | Policy_startup              | Yes        | 2020-Feb-13 13:35 |
+|            |               |           | TEST-SPDVDICX012-Win10                        | Policy_startup              | Yes        | 2020-Feb-13 20:29 |
+|            |               |           | TEST-SPDVDICX013-Win10                        | Policy_startup              | Yes        | 2020-Sep-23 16:13 |
+|            |               |           | TEST-SPDVDICX015-Win10                        | Policy_startup              | Yes        | 2020-Nov-05 11:48 |
+|            |               |           | TEST-SPDVDICX016-Win10                        | Policy_startup              | Yes        | 2021-Jan-19 11:48 |
+|            |               |           | TEST-SPDVDICX017-Win10                        | Policy_startup              | Yes        | 2021-Mar-01 16:25 |
+|            |               |           | TEST-SPDVDICX018-Win10                        | Policy_startup              | Yes        | 2021-Apr-12 10:49 |
+|            |               |           | Quorum-FOM-STO_3A-3B                       | Policy_General              | Yes        | 2019-Nov-12 18:06 |
+|            |               |           | sqlsp                                      | Policy_General              | Yes        | 2019-Nov-11 23:53 |
